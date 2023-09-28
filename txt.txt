@@ -4,4 +4,8 @@ https://forums.freebsd.org/threads/how-to-set-battery-charging-thresholds-on-lap
 
 https://github.com/dylanaraps/pywal/wiki/Customization#vim
 
+https://github.com/ccd0/4chan-x.git
 
+https://github.com/KevinParnell/OneeChan.git
+
+https://www.4chan-x.net/
