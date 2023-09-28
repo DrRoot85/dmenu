@@ -1,0 +1,7 @@
+https://github.com/DrRoot85/freebsd-dotfiles
+
+https://forums.freebsd.org/threads/how-to-set-battery-charging-thresholds-on-laptop.79807/page-2
+
+https://github.com/dylanaraps/pywal/wiki/Customization#vim
+
+
