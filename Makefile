@@ -8,11 +8,17 @@ OBJ = $(SRC:.c=.o)
 
 all: dmenu stest
 
+options:
+	@echo dwm build options:
+	@echo "CFLAGS   = ${CFLAGS}"
+	@echo "LDFLAGS  = ${LDFLAGS}"
+	@echo "CC       = ${CC}"
+
 .c.o:
 	$(CC) -c $(CFLAGS) $<
 
-config.h:
-	cp config.def.h $@
+# config.h:
+# 	cp config.def.h $@
 
 $(OBJ): arg.h config.h config.mk drw.h
 
