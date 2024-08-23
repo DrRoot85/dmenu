@@ -14,8 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: config.mk
-      run: ./config.mk
+    - name: config.h
+      run: ./config.h
 
     - name: Install dependencies
       run: make 
